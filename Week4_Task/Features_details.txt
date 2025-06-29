@@ -1,0 +1,23 @@
+Complete list of all 21 columns/features from my dataset:
+
+1. usmr: Indicates whether the patient treated medical units of the first, second or third level.
+2. medical unit: type of institution of the National Health System that provided the care.
+3. sex: 1 for female and 2 for male.
+4. patient type: type of care the patient received in the unit. 1 for returned home and 2 for hospitalization.
+5. date died: If the patient died indicate the date of death, and 9999-99-99 otherwise.
+6. intubed: whether the patient was connected to the ventilator.
+7. pneumonia: whether the patient already have air sacs inflammation or not.
+8. age: Age of the patient.
+9. pregnant: whether the patient is pregnant or not.
+10. diabetes: whether the patient has diabetes or not.
+11. copd: Indicates whether the patient has Chronic obstructive pulmonary disease or not.
+12. asthma: whether the patient has asthma or not.
+13. inmsupr: whether the patient is immunosuppressed or not.
+14. hipertension: whether the patient has hypertension or not.
+15. other disease: whether the patient has other disease or not.
+16. cardiovascular: whether the patient has heart or blood vessels related disease.
+17. obesity: whether the patient is obese or not.
+18. renal chronic: whether the patient has chronic renal disease or not.
+19. tobacco: whether the patient is a tobacco user.
+20. classification final: covid test findings. Values 1-3 mean that the patient was diagnosed with covid in different degrees. 4 or higher means that the patient is not a carrier of covid or that the test is inconclusive.
+21. icu: Indicates whether the patient had been admitted to an Intensive Care Unit.
